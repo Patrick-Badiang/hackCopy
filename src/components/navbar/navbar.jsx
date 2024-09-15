@@ -2,7 +2,7 @@ import React from 'react';
 import './navbar.css'; // Importing the CSS for the navbar
 import { Avatar, Box, Typography } from '@mui/material';
 
-import Logo from "../../images/logo.png"; // Importing the logo image
+import Logo from "../../images/Logo.png"; // Importing the logo image
 
 function Navbar() {
   return (
